@@ -1,0 +1,19 @@
+{
+  "name": "dollsteaktestmeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reese820/dollsteaktestmeat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reese820/dollsteaktestmeat/issues"
+  },
+  "homepage": "https://github.com/reese820/dollsteaktestmeat#readme"
+}
